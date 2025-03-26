@@ -4,7 +4,7 @@
 
 To fine-tune a BART model to automatically generate concise and coherent summaries of chat-based conversations using the SAMSum dataset.
 
-## ** Dataset**
+## **Dataset**
 
 * Name: SAMSum
 
